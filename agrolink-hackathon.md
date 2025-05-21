@@ -27,7 +27,7 @@ I was responsible for designing and implementing the backend architecture of the
 🔗 Key Links
 
 - 🔗 GitHub Organization Repo: https://github.com/Medstacks/agrolink-backend.git
-- 🔗 My Forked Version: [Insert your personal GitHub repo link]
+- 🔗 My Forked Version: https://github.com/SomayiroA/agrolink-backend.git
 - 📸 Demo:
   https://frontend-lyart-iota-53.vercel.app
   
