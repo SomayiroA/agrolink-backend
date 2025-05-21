@@ -29,7 +29,7 @@ I was responsible for designing and implementing the backend architecture of the
 
 🔗 Key Links
 
-- 🔗 GitHub Organization Repo: [Insert GitHub Organization Repo Link]
+- 🔗 GitHub Organization Repo: https://github.com/Medstacks/agrolink-backend.git
 - 🔗 **My Forked Version**: [Insert your personal GitHub repo link]
 - 📸 **Screenshots / Demo**:
   - ![Project Screenshot 1](./screenshots/demo1.png)
